@@ -6,7 +6,7 @@
 - 👀 I’m interested in programming, gaming and running
 
 ## Languages and tools
-[![My Skills](https://skillicons.dev/icons?i=c,bash,github,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,docker,bash,github,linux)](https://skillicons.dev)
 
 <!---
 rmsa42/rmsa42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
