@@ -2,7 +2,8 @@
 
 # About Me
 - 🏃‍♂️ I'm a track and field athlete representing Clube Desportivo Feirense
-- 🌱 I’m currently studying C in 42 Porto
+- 🌱 Completed Common Core in 42 Porto
+- 📋 Currently studying ASM x86 64 bits
 - 👀 I’m interested in programming, gaming and running
 
 ## Languages and tools
