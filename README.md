@@ -3,7 +3,7 @@
 # About Me
 - 🌱 Completed Common Core in 42 Porto
 - 👀 I’m interested in programming, gaming and running
-- 📋 Currently doing a multiplayer Tetris website (red_tetris)
+- 📋 Currently working with Embedded Systems (SEA:ME)
 - 🔍 Exploring the area of CPU emulation
 
 ## Languages and tools
