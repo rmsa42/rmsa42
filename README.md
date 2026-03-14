@@ -3,8 +3,7 @@
 # About Me
 - 🌱 Completed Common Core in 42 Porto
 - 👀 I’m interested in programming, gaming and running
-- 📋 Currently working with Embedded Systems (SEA:ME)
-- 🔍 Exploring the area of CPU emulation
+- 📋 Currently working in Embedded Systems (SEA:ME Course)
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,nodejs,npm,javascript,html,css,lua,docker,bash,github,linux,cmake,neovim)](https://skillicons.dev)
