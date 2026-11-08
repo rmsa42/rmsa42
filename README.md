@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rui Almeida</h1>
 
 # About Me
-- 🌱 Completed Common Core in 42 Porto
+- 🌱 Completed Common Core and SEA:ME in 42 Porto
 - 👀 I’m interested in programming, gaming and running
-- 📋 Currently working in Embedded Systems (SEA:ME Course)
+- 📋 I have professional experience in Embedded Systems, particularly in the automotive area. I, in a team of 5, developed a fully autonomous prototype car
 
-# Working Projects
+# Current Project
 
-Developing an autonmous driving car powered by a RaspberryPi5 and an STM32
+Developing my own libraries and recreating well known things for learning purposes
 
 ## Languages and tools
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,nodejs,npm,javascript,html,css,lua,docker,bash,github,linux,cmake,neovim)](https://skillicons.dev)
